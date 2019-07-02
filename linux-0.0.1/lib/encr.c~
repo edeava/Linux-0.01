@@ -1,0 +1,8 @@
+#define __LIBRARY__
+#include <unistd.h>
+
+#include <crypt.h>
+
+_syscall1(int,encr,int,fd)
+
+_syscall2(int,blcadd,const char*,path,int,type); 

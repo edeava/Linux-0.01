@@ -1,0 +1,6 @@
+#define __LIBRARY__
+#include <unistd.h>
+
+#include <crypt.h>
+
+_syscall0(int,visibilitySwitch)
