@@ -1,7 +1,7 @@
 # Linux-0.01
 Upgrade of a Linux-0.01 operating system done as a project at Operating Systems subject at Faculty of Computing in Belgrade.
 
-#Features:
+# Features:
 
 1. Graphic File Explorer that enables you to move through file system without a console.
 
